@@ -1,0 +1,11 @@
+{
+  "groups": [
+    {
+      "name": "weixin",
+      "type": "com.github.wxpay.sdk.MyConfig",
+      "sourceType": "com.github.wxpay.sdk.MyConfig"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}

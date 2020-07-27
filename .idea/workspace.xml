@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9595a674-e801-4ce5-934f-15b4549c4c3e" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/code-template" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/apache-maven-3.6.1" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1b28IvGBp3y996dnnOB0i6NcO2F" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.changgou.seckill.config" />
+      <recent name="com.changgou.seckill.pojo" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.changgou.pay.config" />
+      <recent name="com.changgou.eureka.Util" />
+      <recent name="com.changgou.pay.UtIL" />
+      <recent name="com.changgou.util" />
+      <recent name="com.changgou.order.interceptor" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\JAVA\畅购\畅购\畅购商城源码资料\chapter16 秒杀后端\chapter16 秒杀后端\代码\changgou_parent\changgou_parent\changgou_service\changgou_service_pay\src\main\resources" />
+      <recent name="G:\JAVA\畅购\畅购\畅购商城源码资料\chapter16 秒杀后端\chapter16 秒杀后端\代码\changgou_parent\changgou_parent\changgou_service\changgou_service_pay\src\main\java\com\github\wxpay\sdk" />
+      <recent name="G:\JAVA\畅购\畅购\畅购商城源码资料\chapter16 秒杀后端\chapter16 秒杀后端\代码\changgou_parent\changgou_parent\changgou_common\src\main\java\com\changgou\entity" />
+      <recent name="G:\JAVA\畅购\畅购\畅购商城源码资料\chapter16 秒杀后端\chapter16 秒杀后端\代码\changgou_parent\changgou_parent\changgou_common\src\main\java\com\changgou\util" />
+      <recent name="G:\JAVA\畅购\畅购\畅购商城源码资料\chapter16 秒杀后端\chapter16 秒杀后端\代码\changgou_parent\changgou_parent\changgou_service\changgou_service_goods\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+    <option name="contentProportion" value="0.22874807" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.UserApplication">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gc.MainApplication" />
+      <module name="MultiThread" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="changgou-user-oauth" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="changgou-user-oauth" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="eurekaserver3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itqx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itqx.EurekaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaApplication (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="eurekaserver2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itqx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itqx.EurekaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="eurekaserver1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itqx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itqx.EurekaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="changgou_service_user" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.changgou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.changgou.UserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MainApplication" />
+      <item itemvalue="Spring Boot.EurekaApplication" />
+      <item itemvalue="Spring Boot.EurekaApplication (1)" />
+      <item itemvalue="Spring Boot.EurekaApplication (2)" />
+      <item itemvalue="Spring Boot.UserApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.UserApplication" />
+        <item itemvalue="Spring Boot.EurekaApplication" />
+        <item itemvalue="Spring Boot.EurekaApplication (2)" />
+        <item itemvalue="Spring Boot.EurekaApplication (1)" />
+        <item itemvalue="Application.MainApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <option name="contentProportion" value="0.2981988" />
+        <treeState>
+          <expand />
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_NON_PUBLIC,SHOW_FIELDS" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\weizhaohui\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9595a674-e801-4ce5-934f-15b4549c4c3e" name="Default Changelist" comment="" />
+      <created>1567161271194</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567161271194</updated>
+      <workItem from="1567161274510" duration="94000" />
+      <workItem from="1567744838655" duration="321000" />
+      <workItem from="1567745178822" duration="5900000" />
+      <workItem from="1568603816783" duration="1112000" />
+      <workItem from="1568623037398" duration="767000" />
+      <workItem from="1568623876191" duration="761000" />
+      <workItem from="1568624698364" duration="351000" />
+      <workItem from="1568625068359" duration="219000" />
+      <workItem from="1568625584835" duration="194000" />
+      <workItem from="1568625796404" duration="236000" />
+      <workItem from="1568626085986" duration="46158000" />
+      <workItem from="1568880019047" duration="3297000" />
+      <workItem from="1568965068375" duration="1563000" />
+      <workItem from="1568966660306" duration="8664000" />
+      <workItem from="1569121854915" duration="29000" />
+      <workItem from="1569132555131" duration="3575000" />
+      <workItem from="1569136422983" duration="90206000" />
+      <workItem from="1569582815413" duration="100000" />
+      <workItem from="1569582949849" duration="275000" />
+      <workItem from="1569583470872" duration="802000" />
+      <workItem from="1569584324826" duration="1376000" />
+      <workItem from="1569585774691" duration="36752000" />
+      <workItem from="1570245319596" duration="35527000" />
+      <workItem from="1570500736212" duration="10750000" />
+      <workItem from="1570607704028" duration="2986000" />
+      <workItem from="1570696131011" duration="955000" />
+      <workItem from="1570697199595" duration="19477000" />
+      <workItem from="1570786703113" duration="7112000" />
+      <workItem from="1570869861854" duration="5187000" />
+      <workItem from="1570875255967" duration="22358000" />
+      <workItem from="1571191885685" duration="58586000" />
+      <workItem from="1571630216632" duration="15591000" />
+      <workItem from="1587818754946" duration="5460000" />
+      <workItem from="1587867813814" duration="1633000" />
+      <workItem from="1591025668979" duration="1178000" />
+      <workItem from="1591103361084" duration="5075000" />
+      <workItem from="1591278638435" duration="5578000" />
+      <workItem from="1591616852538" duration="11093000" />
+      <workItem from="1591714875952" duration="348000" />
+      <workItem from="1591715640374" duration="411000" />
+      <workItem from="1592406322244" duration="121000" />
+      <workItem from="1592482930260" duration="4776000" />
+      <workItem from="1592627712407" duration="23142000" />
+      <workItem from="1592836286990" duration="4719000" />
+      <workItem from="1592916043649" duration="4637000" />
+      <workItem from="1593053319005" duration="23400000" />
+      <workItem from="1593317692284" duration="21725000" />
+      <workItem from="1593437941246" duration="4375000" />
+      <workItem from="1593521254529" duration="8859000" />
+      <workItem from="1593840240763" duration="22364000" />
+      <workItem from="1593928587990" duration="1704000" />
+      <workItem from="1594035817063" duration="7816000" />
+      <workItem from="1594310616063" duration="1217000" />
+      <workItem from="1594474086718" duration="2223000" />
+      <workItem from="1594519652706" duration="12790000" />
+      <workItem from="1594640407453" duration="9929000" />
+      <workItem from="1594730721665" duration="11880000" />
+      <workItem from="1594817833199" duration="7096000" />
+      <workItem from="1594905410703" duration="589000" />
+      <workItem from="1595052093774" duration="2423000" />
+      <workItem from="1595129900260" duration="954000" />
+      <workItem from="1595158554435" duration="5492000" />
+      <workItem from="1595253324115" duration="4323000" />
+      <workItem from="1595423859880" duration="813000" />
+      <workItem from="1595773044012" duration="908000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/changgou_service/changgou_service_file/src/main/java/com/changgou/file/controller/FileController.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/changgou_service/changgou_service_goods/src/main/java/com/changgou/goods/service/impl/SpuServiceImpl.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/changgou_service/changgou_service_page/src/main/java/com/changgou/page/service/impl/PageServiceImpl.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/changgou_service/changgou_service_page/src/main/java/com/changgou/page/listener/PageListener.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/changgou_canal/src/main/java/com/changgou/canal/listener/SpuListener.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/changgou_common/src/main/java/com/changgou/util/DateUtil.java</url>
+          <line>121</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/changgou_service/changgou_service_order/src/main/java/com/changgou/order/service/impl/OrderServiceImpl.java</url>
+          <line>112</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="orderItems" />
+        <watch expression="fen.intVal" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
